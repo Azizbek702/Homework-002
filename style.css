@@ -1,0 +1,43 @@
+.yourname{
+    color: red;
+    
+}
+.paragraph{
+color: black;
+width: 1000px;
+gap: 20px;
+}
+.div{
+width: 200px;
+height: 280;
+border: 1px solid rgb(77, 77, 77);
+border-radius: 0px;
+text-align: center;
+background-color: rgb(97, 96, 96);
+color: white;
+}
+.italic,
+.italic-2,
+.italic-3,
+.italic-4{
+    width: 500px;
+    height: 500px;
+    font-size: 35px;
+}
+.divvv{
+width: 200px;
+height: 30px;
+border: 1px solid rgb(77, 77, 77);
+font-size: 15px;
+text-align: center;
+justify-content: center;
+align-items: center;
+color: white;
+background-color: rgb(206, 22, 22);
+}
+.div-1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-right: 100px;
+}
